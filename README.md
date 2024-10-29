@@ -19,10 +19,16 @@
   <a href="https://www.linkedin.com/in/franj-lunam/" >
     <img
       title="Francisco Luna Linkedin Profile"
-      width="30"
-      height="30"
-      src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
+      width="100"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg">
   </a>
+
+  <!-- a href="https://codepen.io/lunaf19" >
+    <img
+      title="Francisco Luna Codepen Profile"
+      width="100"
+      src="https://upload.wikimedia.org/wikipedia/commons/3/32/CodePen_Logo.svg">
+  </a-->
 
   </h1>
 

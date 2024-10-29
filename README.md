@@ -1,9 +1,8 @@
 <div >
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
 
   <img
-    style="border-radius: 100%;"
     width="250"
     height="250"
     title="Francisco Luna Photo"
@@ -11,15 +10,14 @@
 
 </div>
 
-<div style="display:flex; justify-content:center; flex-direction: row;">
+<div align="center">
 
-  <h1 style="display: flex; aling-items: center;">
+  <h1>
 
   :rocket: Hello! Its Francisco Luna
 
   <a href="https://www.linkedin.com/in/franj-lunam/" >
-    <img 
-      style="padding: 10px;"
+    <img
       title="Francisco Luna Linkedin Profile"
       width="30"
       height="30"
@@ -30,7 +28,7 @@
 
 </div>
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
   <p>
   
   I´m a FullStack Developer, i have broad knowledge in the **Oracle Database**, **PL/SQL**, **Oracle Apex**, **NextJS**, **ExpressJS**.
@@ -38,7 +36,7 @@
   </p>
 </div>
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
 
 ![lunaF19 GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunaF19&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
 

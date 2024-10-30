@@ -84,7 +84,6 @@
 
 ![Oracle Database](https://img.shields.io/badge/-Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -99,3 +98,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-010409?style=for-the-badge&logo=github&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Tmux](https://img.shields.io/badge/-Tmux-1ab31e?style=for-the-badge&logo=tmux&logoColor=white)
+![PHPMyAdmin](https://img.shields.io/badge/-phpmyadmin-white?style=for-the-badge&logo=phpmyadmin&logoColor=F05032)
+

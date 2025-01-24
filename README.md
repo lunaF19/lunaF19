@@ -6,8 +6,7 @@
     width="250"
     height="250"
     title="Francisco Luna Photo"
-    src="https://media.licdn.com/dms/image/v2/C4E03AQEkBAHmQyiOaw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1660496736788?e=1735776000&v=beta&t=1LwRaqpJniadl7iFXydEKm5Qz7lwvP_6U-MZ1-nqJZI">
-
+    src="https://github.com/user-attachments/assets/848c7831-d712-4d28-aa9e-e961ce0f139d">
 </div>
 
 <div align="center">
